@@ -1,5 +1,6 @@
 import React from "react";
 import App from "next/app";
+import 'proxy-polyfill/proxy.min.js';
 import { AnimatePresence } from "framer-motion";
 import "../styles.scss";
 
