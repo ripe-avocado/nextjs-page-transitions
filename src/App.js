@@ -20,7 +20,7 @@ function App() {
       0.6,
       {
         y: 30,
-        delay: 0.6,
+        delay: 0.5,
         ease: "power3.InOut",
         opacity: 0,
         stagger: {
